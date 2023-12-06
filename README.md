@@ -15,6 +15,9 @@
 This Hospital Emergency project aims is to analyze and provide insights in order to monitor patients traffic in the Hospital in the past year. By analyzing various aspects of Hospital Activities, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the Hospital performance.
 
 
+<img width="908" alt="Hospital Emergency Room" src="https://github.com/Sadejumo12/Hopital-Emergency-Room-Data/assets/113441381/d34fba63-e61d-417d-b308-e0fd8b79e4bf">
+
+
 ### Data Sources
 
 Hospital Emergency Data: The primary dataset used for this analysis is the "Hopital ER.csv" file, containing detailed information about each activities of the Hospital.
@@ -88,3 +91,6 @@ References
 
 career.Insight.ng
 
+👍
+
+💻
